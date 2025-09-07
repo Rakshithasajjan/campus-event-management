@@ -36,7 +36,7 @@ API: RESTful endpoints
 Data Format: JSON for API responses
 
 3. Data to Track
-4. 
+   
 Core Entities:
 
 Colleges: College information
@@ -52,7 +52,7 @@ Attendance: Attendance records
 Feedback: Student feedback for attended events
 
 
-project structure:
+4.project structure:
 
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f9d9247f-2396-44ed-a3f0-c6ed622e1484" />
 
