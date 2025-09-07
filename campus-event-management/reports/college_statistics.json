@@ -1,0 +1,52 @@
+{
+  "report_name": "College Statistics",
+  "generated_at": "2025-09-07T15:30:00",
+  "total_colleges": 3,
+  "summary": {
+    "largest_college": "ABC Engineering College",
+    "most_active_college": "ABC Engineering College",
+    "total_students_across_colleges": 8,
+    "total_events_across_colleges": 6
+  },
+  "colleges": [
+    {
+      "college_id": 1,
+      "college_name": "ABC Engineering College",
+      "location": "Mumbai",
+      "total_students": 3,
+      "total_events_hosted": 2,
+      "registrations_by_students": 4,
+      "registrations_for_events": 4,
+      "attendance_by_students": 2,
+      "avg_feedback_by_students": 4.5,
+      "registrations_per_student": 1.33,
+      "attendance_rate": 50.0
+    },
+    {
+      "college_id": 2,
+      "college_name": "XYZ Institute of Technology",
+      "location": "Bangalore",
+      "total_students": 3,
+      "total_events_hosted": 2,
+      "registrations_by_students": 4,
+      "registrations_for_events": 4,
+      "attendance_by_students": 2,
+      "avg_feedback_by_students": 4.0,
+      "registrations_per_student": 1.33,
+      "attendance_rate": 50.0
+    },
+    {
+      "college_id": 3,
+      "college_name": "DEF University",
+      "location": "Delhi",
+      "total_students": 2,
+      "total_events_hosted": 2,
+      "registrations_by_students": 1,
+      "registrations_for_events": 1,
+      "attendance_by_students": 1,
+      "avg_feedback_by_students": 4.0,
+      "registrations_per_student": 0.5,
+      "attendance_rate": 100.0
+    }
+  ]
+}

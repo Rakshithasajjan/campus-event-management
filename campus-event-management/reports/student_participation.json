@@ -1,0 +1,90 @@
+{
+  "report_name": "Student Participation Report",
+  "generated_at": "2025-09-07T15:30:00",
+  "total_active_students": 7,
+  "summary": {
+    "most_active_student": "Rahul Sharma",
+    "avg_events_per_student": 1.0,
+    "avg_registrations_per_student": 1.29,
+    "students_with_perfect_attendance": 5
+  },
+  "students": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "email": "rahul@abc.edu",
+      "college_name": "ABC Engineering College",
+      "total_registrations": 2,
+      "events_attended": 1,
+      "avg_feedback_rating": 5.0,
+      "personal_attendance_rate": 50.0,
+      "feedback_given_count": 1
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "email": "priya@abc.edu",
+      "college_name": "ABC Engineering College",
+      "total_registrations": 1,
+      "events_attended": 1,
+      "avg_feedback_rating": 4.0,
+      "personal_attendance_rate": 100.0,
+      "feedback_given_count": 1
+    },
+    {
+      "id": 3,
+      "name": "Amit Kumar",
+      "email": "amit@xyz.edu",
+      "college_name": "XYZ Institute of Technology",
+      "total_registrations": 2,
+      "events_attended": 1,
+      "avg_feedback_rating": 5.0,
+      "personal_attendance_rate": 50.0,
+      "feedback_given_count": 1
+    },
+    {
+      "id": 5,
+      "name": "Vikram Gupta",
+      "email": "vikram@def.edu",
+      "college_name": "DEF University",
+      "total_registrations": 1,
+      "events_attended": 1,
+      "avg_feedback_rating": 4.0,
+      "personal_attendance_rate": 100.0,
+      "feedback_given_count": 1
+    },
+    {
+      "id": 7,
+      "name": "Arjun Nair",
+      "email": "arjun@abc.edu",
+      "college_name": "ABC Engineering College",
+      "total_registrations": 1,
+      "events_attended": 1,
+      "avg_feedback_rating": null,
+      "personal_attendance_rate": 100.0,
+      "feedback_given_count": 0
+    },
+    {
+      "id": 8,
+      "name": "Meera Joshi",
+      "email": "meera@xyz.edu",
+      "college_name": "XYZ Institute of Technology",
+      "total_registrations": 1,
+      "events_attended": 1,
+      "avg_feedback_rating": 3.0,
+      "personal_attendance_rate": 100.0,
+      "feedback_given_count": 1
+    },
+    {
+      "id": 4,
+      "name": "Sneha Singh",
+      "email": "sneha@xyz.edu",
+      "college_name": "XYZ Institute of Technology",
+      "total_registrations": 1,
+      "events_attended": 0,
+      "avg_feedback_rating": null,
+      "personal_attendance_rate": 0.0,
+      "feedback_given_count": 0
+    }
+  ]
+}

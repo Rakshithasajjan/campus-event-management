@@ -1,0 +1,52 @@
+{
+  "report_name": "Event Type Analysis",
+  "generated_at": "2025-09-07T15:30:00",
+  "summary": {
+    "most_popular_type": "Workshop",
+    "total_event_types": 4,
+    "best_attended_type": "Workshop",
+    "highest_rated_type": "Workshop"
+  },
+  "event_types": [
+    {
+      "event_type": "Workshop",
+      "total_events": 2,
+      "total_registrations": 4,
+      "total_attendance": 4,
+      "avg_rating": 4.0,
+      "attendance_percentage": 100.0,
+      "avg_registrations_per_event": 2.0,
+      "max_registrations_for_type": 4
+    },
+    {
+      "event_type": "Seminar",
+      "total_events": 2,
+      "total_registrations": 3,
+      "total_attendance": 2,
+      "avg_rating": 4.0,
+      "attendance_percentage": 66.67,
+      "avg_registrations_per_event": 1.5,
+      "max_registrations_for_type": 3
+    },
+    {
+      "event_type": "Hackathon",
+      "total_events": 1,
+      "total_registrations": 1,
+      "total_attendance": 1,
+      "avg_rating": null,
+      "attendance_percentage": 100.0,
+      "avg_registrations_per_event": 1.0,
+      "max_registrations_for_type": 1
+    },
+    {
+      "event_type": "Fest",
+      "total_events": 1,
+      "total_registrations": 1,
+      "total_attendance": 0,
+      "avg_rating": null,
+      "attendance_percentage": 0.0,
+      "avg_registrations_per_event": 1.0,
+      "max_registrations_for_type": 1
+    }
+  ]
+}

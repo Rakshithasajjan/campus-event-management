@@ -1,0 +1,47 @@
+{
+  "report_name": "Feedback Analysis",
+  "generated_at": "2025-09-07T15:30:00",
+  "overall_statistics": {
+    "total_feedback": 5,
+    "avg_rating": 4.2,
+    "five_star": 2,
+    "four_star": 2,
+    "three_star": 1,
+    "two_star": 0,
+    "one_star": 0,
+    "with_comments": 5
+  },
+  "rating_distribution": {
+    "5_star": 2,
+    "4_star": 2,
+    "3_star": 1,
+    "2_star": 0,
+    "1_star": 0
+  },
+  "event_feedback": [
+    {
+      "event_name": "React Workshop",
+      "event_type": "Workshop",
+      "college_name": "ABC Engineering College",
+      "feedback_count": 2,
+      "avg_rating": 4.5,
+      "sample_comments": "Excellent workshop! Very informative.; Good content, could use more hands-on examples."
+    },
+    {
+      "event_name": "AI/ML Seminar",
+      "event_type": "Seminar",
+      "college_name": "XYZ Institute of Technology",
+      "feedback_count": 2,
+      "avg_rating": 4.0,
+      "sample_comments": "Great speaker and relevant topics.; Average experience, room was too crowded."
+    },
+    {
+      "event_name": "Web Development Workshop",
+      "event_type": "Workshop",
+      "college_name": "DEF University",
+      "feedback_count": 1,
+      "avg_rating": 4.0,
+      "sample_comments": "Well organized event."
+    }
+  ]
+}

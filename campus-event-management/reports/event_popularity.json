@@ -1,0 +1,90 @@
+{
+  "report_name": "Event Popularity Report",
+  "generated_at": "2025-09-07T15:30:00",
+  "total_events": 6,
+  "summary": {
+    "most_popular_event": "React Workshop",
+    "avg_registrations_per_event": 1.5,
+    "overall_attendance_rate": 77.78
+  },
+  "events": [
+    {
+      "id": 1,
+      "name": "React Workshop",
+      "event_type": "Workshop",
+      "event_date": "2025-09-15",
+      "college_name": "ABC Engineering College",
+      "total_registrations": 3,
+      "total_attendance": 3,
+      "attendance_percentage": 100.0,
+      "avg_rating": 4.0,
+      "max_capacity": 50,
+      "capacity_utilization": 6.0
+    },
+    {
+      "id": 3,
+      "name": "AI/ML Seminar",
+      "event_type": "Seminar",
+      "event_date": "2025-09-18",
+      "college_name": "XYZ Institute of Technology",
+      "total_registrations": 3,
+      "total_attendance": 2,
+      "attendance_percentage": 66.67,
+      "avg_rating": 4.0,
+      "max_capacity": 75,
+      "capacity_utilization": 4.0
+    },
+    {
+      "id": 2,
+      "name": "Tech Fest 2025",
+      "event_type": "Fest",
+      "event_date": "2025-09-20",
+      "college_name": "ABC Engineering College",
+      "total_registrations": 1,
+      "total_attendance": 0,
+      "attendance_percentage": 0.0,
+      "avg_rating": null,
+      "max_capacity": 200,
+      "capacity_utilization": 0.5
+    },
+    {
+      "id": 4,
+      "name": "Code Challenge",
+      "event_type": "Hackathon",
+      "event_date": "2025-09-25",
+      "college_name": "XYZ Institute of Technology",
+      "total_registrations": 1,
+      "total_attendance": 1,
+      "attendance_percentage": 100.0,
+      "avg_rating": null,
+      "max_capacity": 100,
+      "capacity_utilization": 1.0
+    },
+    {
+      "id": 5,
+      "name": "Web Development Workshop",
+      "event_type": "Workshop",
+      "event_date": "2025-09-22",
+      "college_name": "DEF University",
+      "total_registrations": 1,
+      "total_attendance": 1,
+      "attendance_percentage": 100.0,
+      "avg_rating": 4.0,
+      "max_capacity": 60,
+      "capacity_utilization": 1.67
+    },
+    {
+      "id": 6,
+      "name": "Innovation Summit",
+      "event_type": "Seminar",
+      "event_date": "2025-09-30",
+      "college_name": "DEF University",
+      "total_registrations": 0,
+      "total_attendance": 0,
+      "attendance_percentage": 0.0,
+      "avg_rating": null,
+      "max_capacity": 150,
+      "capacity_utilization": 0.0
+    }
+  ]
+}

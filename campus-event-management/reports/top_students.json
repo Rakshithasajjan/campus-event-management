@@ -1,0 +1,43 @@
+{
+  "report_name": "Top 3 Most Active Students",
+  "generated_at": "2025-09-07T15:30:00",
+  "criteria": "Ranked by events attended, then registrations, then feedback submissions",
+  "top_students": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "email": "rahul@abc.edu",
+      "college_name": "ABC Engineering College",
+      "total_registrations": 2,
+      "events_attended": 1,
+      "avg_feedback_rating": 5.0,
+      "feedback_submissions": 1,
+      "attendance_rate": 50.0,
+      "rank": 1
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "email": "priya@abc.edu",
+      "college_name": "ABC Engineering College",
+      "total_registrations": 1,
+      "events_attended": 1,
+      "avg_feedback_rating": 4.0,
+      "feedback_submissions": 1,
+      "attendance_rate": 100.0,
+      "rank": 2
+    },
+    {
+      "id": 3,
+      "name": "Amit Kumar",
+      "email": "amit@xyz.edu",
+      "college_name": "XYZ Institute of Technology",
+      "total_registrations": 2,
+      "events_attended": 1,
+      "avg_feedback_rating": 5.0,
+      "feedback_submissions": 1,
+      "attendance_rate": 50.0,
+      "rank": 3
+    }
+  ]
+}

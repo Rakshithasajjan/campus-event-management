@@ -1,0 +1,31 @@
+{
+  "report_name": "Executive Summary Dashboard",
+  "generated_at": "2025-09-07T15:30:00",
+  "key_metrics": {
+    "platform_overview": {
+      "total_colleges": 3,
+      "total_students": 8,
+      "total_events": 6
+    },
+    "engagement_metrics": {
+      "total_registrations": 9,
+      "total_attendance": 7,
+      "attendance_rate_percentage": 77.78,
+      "no_shows": 2
+    },
+    "feedback_metrics": {
+      "total_feedback_submissions": 5,
+      "feedback_rate_percentage": 71.43,
+      "average_rating": 4.2
+    },
+    "efficiency_metrics": {
+      "avg_registrations_per_event": 1.5,
+      "avg_events_per_student": 1.13
+    }
+  },
+  "health_indicators": {
+    "engagement_health": "Good",
+    "feedback_health": "Good", 
+    "satisfaction_health": "Excellent"
+  }
+}

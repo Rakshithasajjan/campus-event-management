@@ -1,0 +1,7 @@
+id,name,event_type,event_date,college_name,total_registrations,total_attendance,attendance_percentage,avg_rating,max_capacity,capacity_utilization
+1,React Workshop,Workshop,2025-09-15,ABC Engineering College,3,3,100.0,4.0,50,6.0
+3,AI/ML Seminar,Seminar,2025-09-18,XYZ Institute of Technology,3,2,66.67,4.0,75,4.0
+2,Tech Fest 2025,Fest,2025-09-20,ABC Engineering College,1,0,0.0,,200,0.5
+4,Code Challenge,Hackathon,2025-09-25,XYZ Institute of Technology,1,1,100.0,,100,1.0
+5,Web Development Workshop,Workshop,2025-09-22,DEF University,1,1,100.0,4.0,60,1.67
+6,Innovation Summit,Seminar,2025-09-30,DEF University,0,0,0.0,,150,0.0
